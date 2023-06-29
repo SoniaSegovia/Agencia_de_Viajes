@@ -22,3 +22,4 @@ namespace Domain.PaqueteDestinos
         public bool activo {get; private set;}; = default(true);
     }
 }
+
